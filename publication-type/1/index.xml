@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
+    <title>1 | Mathias Gehrig</title>
     <link>https://magehrig.github.io/publication-type/1/</link>
       <atom:link href="https://magehrig.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://magehrig.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,22 +13,83 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://magehrig.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://magehrig.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>E-RAFT: Dense Optical Flow from Event Cameras</title>
+      <link>https://magehrig.github.io/publication/gehrig-2021-3dv/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/gehrig-2021-3dv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Calibrate Your Event Camera</title>
+      <link>https://magehrig.github.io/publication/muglikar-2021-cvprw/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/muglikar-2021-cvprw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Lens: Event-based Video Frame Interpolation</title>
+      <link>https://magehrig.github.io/publication/tulyakov-2021-cvpr/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/tulyakov-2021-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AlphaPilot: Autonomous Drone Racing</title>
+      <link>https://magehrig.github.io/publication/foehn-2020-rss/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/foehn-2020-rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video to Events: Recycling Video Datasets for Event Cameras</title>
+      <link>https://magehrig.github.io/publication/gehrig-2020-cvpr/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/gehrig-2020-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Based Angular Velocity Regression with Spiking Networks</title>
+      <link>https://magehrig.github.io/publication/gehrig-2020-icra/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/gehrig-2020-icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Low-Latency High-Bandwidth Control of Quadrotors using Event Cameras</title>
+      <link>https://magehrig.github.io/publication/dimitrova-2020-icra/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/dimitrova-2020-icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus Is All You Need: Loss Functions for Event-Based Vision</title>
+      <link>https://magehrig.github.io/publication/gallego-2019-cvpr/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/gallego-2019-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beauty and the Beast: Optimal Methods Meet Learning for Drone Racing</title>
+      <link>https://magehrig.github.io/publication/kaufmann-2019-icra/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/kaufmann-2019-icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual place recognition with probabilistic voting</title>
+      <link>https://magehrig.github.io/publication/gehrig-2017-icra/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://magehrig.github.io/publication/gehrig-2017-icra/</guid>
+      <description></description>
     </item>
     
   </channel>
